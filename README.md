@@ -1,3 +1,5 @@
+# New user registration page - an application based on Create React App using React Hook Form and Yup.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
